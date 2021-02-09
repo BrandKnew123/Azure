@@ -4,7 +4,7 @@
     <con:setting id="f6ddeb64-804f-4f6c-9c97-5273bfe6c7cefileName">TestCase-1</con:setting>
   </con:settings>
   <con:savedRecentRuns>1</con:savedRecentRuns>
-  <con:testStep type="datasource" name="DataSource" id="1ff19ef3-58a7-4f03-af13-93b9264531b0" disabled="true">
+  <con:testStep type="datasource" name="DataSource" id="1ff19ef3-58a7-4f03-af13-93b9264531b0">
     <con:settings/>
     <con:config xsi:type="con:DataSourceStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <con:dataSource type="Excel">
